@@ -2,12 +2,12 @@
 This project demonstrates real-time face detection using OpenCV's Haar Cascade Classifier. The script captures video from a webcam, processes each frame to detect faces, and highlights them with rectangles.
 
 #Features:
-Real-time Face Detection: Detects faces in a live video stream using the Haar Cascade method.
-OpenCV Implementation: Utilizes OpenCV's powerful image processing capabilities.
-Customizable Parameters: Adjust detection parameters like scaleFactor, minNeighbors, and minSize for optimized performance.
+1. Real-time Face Detection: Detects faces in a live video stream using the Haar Cascade method. 
+2. OpenCV Implementation: Utilizes OpenCV's powerful image processing capabilities. 
+3. Customizable Parameters: Adjust detection parameters like scaleFactor, minNeighbors, and minSize for optimized performance. 
 
 #Requirements:
-Python 3.x
+Python 3.x , 
 OpenCV 4.x
 
 #File Details:
