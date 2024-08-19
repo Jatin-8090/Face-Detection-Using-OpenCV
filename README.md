@@ -11,9 +11,9 @@ Python 3.x ,
 OpenCV 4.x
 
 #File Details:
-face.py: Main script that handles video capture, face detection, and displaying results.
-haarcascade_frontalface_default.xml: Pre-trained XML classifier for detecting faces (ensure the correct path to this file is specified in the script).
+1. face.py: Main script that handles video capture, face detection, and displaying results. 
+2. haarcascade_frontalface_default.xml: Pre-trained XML classifier for detecting faces (ensure the correct path to this file is specified in the script).
 
 #Notes:
-Ensure that the Haar Cascade XML file is correctly located and that the script points to its exact path.
-Modify the detection parameters to improve accuracy based on your specific use case.
+1. Ensure that the Haar Cascade XML file is correctly located and that the script points to its exact path. 
+2. Modify the detection parameters to improve accuracy based on your specific use case.
